@@ -1,0 +1,1 @@
+require('expose?VirtualDom!./node_modules/virtual-dom/index.js');

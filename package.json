@@ -1,0 +1,16 @@
+{
+  "name": "virtual_dom_global",
+  "version": "1.0.0",
+  "description": "Exports virtual-dom to a global VirtualDom for use in the browser",
+  "main": "dist.js",
+  "scripts": {
+    "build": "npm install && webpack index.js dist.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "expose-loader": "^0.7.1",
+    "virtual-dom": "^2.1.1",
+    "webpack": "^1.12.13"
+  }
+}

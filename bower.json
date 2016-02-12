@@ -1,0 +1,23 @@
+{
+  "name": "virtual_dom_global",
+  "authors": [
+    "Stephen Scott <me@suchipi.com>"
+  ],
+  "description": "Exports virtual-dom to a global VirtualDom for use in the browser",
+  "main": "dist.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "virtual-dom"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
